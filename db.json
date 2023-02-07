@@ -1,0 +1,26 @@
+{
+    "people":[
+        {   "id":1,
+        "fullname": "Stephen Ade",
+            "occupation": "software developer",
+            "marrital status": "Married",
+            "Phone No.": "080988399388",
+            "E-mail": "trade1@gov.ng"
+    },
+        {   "id":2,
+        "fullname": "monday Ade",
+            "occupation": "software developer",
+            "marrital status": "single",
+            "Phone No.": "080987799388",
+            "E-mail": "trade4@gov.ng"
+
+        },
+            { "id":3,
+            "fullname": "seun Ade",
+            "occupation": "software developer",
+            "marrital status": "single",
+            "Phone No.": "080928399388",
+            "E-mail": "trade3@gov.ng"
+    }
+    ]
+}
